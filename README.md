@@ -1,6 +1,8 @@
-# tutorial_flutter_2
+# Tutorial Flutter 2
 
-A new Flutter project.
+Understanding about scaffold and basic widget
+
+![Screenshot](https://cybereye-community.com/img/Screen%20Shot%202018-08-07%20at%2010.59.40%20PM.png)
 
 ## Getting Started
 
